@@ -22,6 +22,9 @@ Note that I don't have a symbol for a short pause (less than 10 minutes since th
 # Where are they used?
 ...
 
+# TODO
+Maybe in the future they could be integrated in the [Font Awesome](http://fontawesome.io) **that** would be really awesome :-)
+
 # CONTRIBUTORS
 * Handmade in Italy by [Davide Bignotti](http://www.davidebignotti.com) for [Moze](www.mozestudio.com)
 * Sponsored by [Gabriele Lana](http://gabrielelana.it)
