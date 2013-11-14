@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Pomicons';
+    src: url('../fonts/Pomodoro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class*="pi-"] {
+   font-family: 'Pomicons';
+   font-size: 20px;
+   line-height: 1;
+   font-weight: normal;
+   text-transform: none;
+
+   /* Better Font Rendering */
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+.pi-clean-code:before {
+    content: '\e000';
+}
+
+.pi-pomodoro-done:before {
+    content: '\e001';
+}
+
+.pi-pomodoro-estimated:before {
+    content: '\e002';
+}
+
+.pi-pomodoro-ticking:before {
+    content: '\e003';
+}
+
+.pi-pomodoro-squashed:before {
+    content: '\e004';
+}
+
+.pi-long-pause:before {
+    content: '\e005';
+}
+
+.pi-away:before {
+    content: '\e006';
+}
+
+.pi-pair-programming:before {
+    content: '\e007';
+}
