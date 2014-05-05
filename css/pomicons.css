@@ -1,14 +1,12 @@
 @font-face {
     font-family: 'Pomicons';
-    src: url('../fonts/Pomicons.ttf') format('truetype');
+    src: url('../fonts/Pomicons.ttf') format('truetype'), url('../fonts/Pomicons.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 [class*="pi-"] {
    font-family: 'Pomicons';
-   font-size: 20px;
-   line-height: 1;
    font-weight: normal;
    text-transform: none;
 
