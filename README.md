@@ -1,12 +1,10 @@
 # What is that?
 This is a font with 8 symbols to talk about the ["Pomodoro Technique"®](http://pomodorotechnique.com/)
 
-
 # Why?
 I use the ["Pomodoro Technique"®](http://pomodorotechnique.com/) a lot and I've done that for many years, I'm a computer programmer, I make my own tools to keep track of my pomodori and I've always wanted some icons to indicate high level concepts in a terse and aesthetically pleasing way. For me symbol fonts are perfect because they could be used everywhere, even in a `VT100` terminal [see](https://github.com/gabrielelana/awesome-terminal-fonts)
 
-
-# What do they mean?
+# What Do They Mean?
 * **CLEAN_CODE** at codepoint `u+E000` this has nothing to do with the pomodoro technique, but it's nice to have a symbol for something that is so important :-)
 * **POMODORO_DONE** at codepoint `u+E001` symbolize a pomodoro that was done in the paste, should be used to say something like _"today I have done 12 `u+E001`"_
 * **POMODORO_ESTIMATED** at codepoint `u+E002` symbolize a pomodoro estimated/allocated for an activity in the future
@@ -20,18 +18,16 @@ I use the ["Pomodoro Technique"®](http://pomodorotechnique.com/) a lot and I've
 * **EXTERNAL_INTERRUPTION** at codepoint `u+E00A` means that you have been interrupted by others (ex. Someone else asked you a question or a notification came up)
 
 
-# How do they look like?
-![pomicons](https://github.com/gabrielelana/pomicons/raw/master/.screenshots/pomicons.png)
+# What Do They Mean?
+<link rel="stylesheet" href="css/pomicons.css" />
+<h1><span style="font-size: 2em;" class="pi-clean-code" /> CLEAN_CODE</h1>
 
-
-# Where are they used?
+# Where Are They Used?
 ... TODO
-
 
 # CONTRIBUTORS
 * Handmade in Italy by [Davide Bignotti](http://www.davidebignotti.com) for [Moze](www.mozestudio.com)
 * Sponsored by [Gabriele Lana](http://gabrielelana.it)
-
 
 # LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>
