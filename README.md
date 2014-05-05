@@ -24,6 +24,18 @@ I use the ["Pomodoro Technique"®](http://pomodorotechnique.com/) a lot and I've
 ![pomicons](https://github.com/gabrielelana/pomicons/raw/master/.screenshots/pomicons.png)
 
 
+# How To Use Them In The Shell
+When you have installed `Pomicons` in your system and configured your font engine [properly](https://github.com/gabrielelana/awesome-terminal-fonts) you can use those glyphs in your terminal. The problem is that is tedious and error prone to print glyphs using unicode codepoints
+```sh
+$ echo "THE POMODORO IS TICKING: \ue003"
+```
+Instead you can use font maps for the shell. When sourced defines constants for every glyphs in the font
+```sh
+$ source sh/Pomicons.sh
+$ echo "THE POMODORO IS TICKING: \u${CODEPOINT_OF_POMICONS_POMODORO_TICKING}"
+```
+
+
 # Where Are They Used?
 ... TODO
 
