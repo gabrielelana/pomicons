@@ -37,14 +37,26 @@
     content: '\e004';
 }
 
-.pi-long-pause:before {
+.pi-short-pause:before {
     content: '\e005';
 }
 
-.pi-away:before {
+.pi-long-pause:before {
     content: '\e006';
 }
 
-.pi-pair-programming:before {
+.pi-away:before {
     content: '\e007';
+}
+
+.pi-pair-programming:before {
+    content: '\e008';
+}
+
+.pi-internal-interruption:before {
+    content: '\e009';
+}
+
+.pi-external-interruption:before {
+    content: '\e00A';
 }
