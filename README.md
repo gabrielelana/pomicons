@@ -2,7 +2,7 @@
 This is a font with 8 symbols to talk about the ["Pomodoro Technique"®](http://pomodorotechnique.com/)
 
 # Why?
-Because I use the ["Pomodoro Technique"®](http://pomodorotechnique.com/) a lot and I've done that for many years, I'm a computer programmer, I make my own tools to keep track of my pomodori and I've always wanted some icons to indicate high level concepts in a terse and aesthetically pleasing way. For me symbol fonts are perfect because they could be used everywhere, even in a VT100 terminal [see](https://github.com/gabrielelana/awesome-terminal-fonts)
+I use the ["Pomodoro Technique"®](http://pomodorotechnique.com/) a lot and I've done that for many years, I'm a computer programmer, I make my own tools to keep track of my pomodori and I've always wanted some icons to indicate high level concepts in a terse and aesthetically pleasing way. For me symbol fonts are perfect because they could be used everywhere, even in a VT100 terminal [see](https://github.com/gabrielelana/awesome-terminal-fonts)
 
 # What do they mean?
 * **CLEAN_CODE** at codepoint `u+E000` this has nothing to do with the pomodoro technique, but it's nice to have a symbol for something that is so important :-)
