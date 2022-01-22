@@ -37,8 +37,10 @@ $ echo "THE POMODORO IS TICKING: \u${CODEPOINT_OF_POMICONS_POMODORO_TICKING}"
 
 
 # Where Are They Used?
-... TODO
-
+* [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+* [caffeine](https://github.com/immstudios/caffeine)
+* [AUR (Arch Linux) package](https://aur.archlinux.org/packages/ttf-pomicons/)
+* ...???
 
 # CONTRIBUTORS
 * Handmade in Italy by [Davide Bignotti](http://www.davidebignotti.com) for [Moze](www.mozestudio.com)
